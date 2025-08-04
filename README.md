@@ -1,11 +1,6 @@
- Phishing-URL-Detection-using-Machine-Learning
- 
-This project detects whether a given website URL is legitimate or phishing using a machine learning model. It’s simple, beginner-friendly, and useful for showcasing cybersecurity and ML skills.
 
-Code Snippet (app.py)
-python
-Copy
-Edit
+Code Snippet (app.py) python
+
 from flask import Flask, render_template, request
 import pickle
 import feature_extraction
